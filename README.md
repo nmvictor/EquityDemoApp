@@ -12,16 +12,16 @@ An app to rank crypto coins and their performance using [Coinranking API](https:
 - HomeViewController (All coins)
 - ProgressView
 - FavoriteCoinsViewController
+- CoinDetailsViewController
 
 # SwiftUI Components 
-- CoinDetailsViewController
 - CoinDetailsView
 - ChartView
 
 
 # Patterns
 - MVVM - Models, Views and ViewModels
-- Repository Pattern - Read from API and Persistance storage
+- Repository Pattern - Manage API and Persistance storage
 
 # API
 - BaseURL: https://api.coinranking.com/v2/
